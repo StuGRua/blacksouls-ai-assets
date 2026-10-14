@@ -10,3 +10,5 @@
 | BLACK SOULS II 绘画风格 | 寿司勇者トロ／イニミニマニモ？ | [BLACK SOULS II](https://store.steampowered.com/app/3855540/BLACK_SOULS_II/) |
 
 豆包立绘参考 App 豆姐形象。
+
+> 授权状态：DeepSeek 沿用 ZipZipPipe 声明的 CC BY-NC-SA 4.0；GPT、Gemini、千问、Claude、GLM 的上游原文为署名、非商用；豆包与 MiMo 的上游许可待核实。全部素材仅限非商业使用，涉及未核实角色请勿商用。
