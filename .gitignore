@@ -1,0 +1,9 @@
+/AGENTS.md
+/local/
+/.venv/
+/node_modules/
+__pycache__/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store

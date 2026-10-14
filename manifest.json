@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "title": "BLACK SOULS系列AI拟人素材",
+  "version": "0.1.0",
+  "license": "CC-BY-NC-SA-4.0",
+  "assets": [
+    {
+      "asset_id": "bs2-v1-portrait-normal-gpt",
+      "character_id": "gpt",
+      "display_name": "GPT",
+      "aliases": [
+        "GPT"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/gpt.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-gemini",
+      "character_id": "gemini",
+      "display_name": "Gemini",
+      "aliases": [
+        "Gemini"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/gemini.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-deepseek",
+      "character_id": "deepseek",
+      "display_name": "DeepSeek",
+      "aliases": [
+        "DeepSeek"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/deepseek.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-qwen",
+      "character_id": "qwen",
+      "display_name": "千问",
+      "aliases": [
+        "千问",
+        "Qwen"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/qwen.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-doubao",
+      "character_id": "doubao",
+      "display_name": "豆包",
+      "aliases": [
+        "豆包",
+        "App豆姐"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/doubao.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-mimo",
+      "character_id": "mimo",
+      "display_name": "MiMo",
+      "aliases": [
+        "MiMo"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/mimo.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-claude",
+      "character_id": "claude",
+      "display_name": "Claude",
+      "aliases": [
+        "Claude",
+        "Opus"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/claude.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    },
+    {
+      "asset_id": "bs2-v1-portrait-normal-glm",
+      "character_id": "glm",
+      "display_name": "GLM",
+      "aliases": [
+        "GLM"
+      ],
+      "setting": "bs2",
+      "design_version": "v1",
+      "kind": "portraits",
+      "variant": "normal",
+      "path": "assets/bs2/v1/portraits/normal/glm.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "license": "CC-BY-NC-SA-4.0"
+    }
+  ],
+  "previews": [
+    {
+      "path": "previews/bs2-v1-normal.jpg",
+      "width": 1000,
+      "height": 870
+    }
+  ]
+}
