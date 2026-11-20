@@ -1,6 +1,14 @@
 # BLACK SOULS 系列 AI 拟人素材
 
-BLACK SOULS II风格的AI拟人立绘，由AI辅助重绘。现有**34张透明PNG**：第一版8张，古兰篇新增26张。原图均为**1024×1536、RGBA**。
+BLACK SOULS II 风格的 AI 拟人立绘，由 AI 辅助重绘。共 **59 张透明 PNG**，第一版 8 张，古兰篇 26 张，类魂格林杯 25 张。原图均为 **1024 × 1536、RGBA**。
+
+## 类魂格林杯 · v0.3.0
+
+[下载本期 25 张 PNG](https://github.com/StuGRua/blacksouls-ai-assets/releases/download/v0.3.0/blacksouls-ai-portraits-grimm-v3-25png.zip) · [Release 说明](https://github.com/StuGRua/blacksouls-ai-assets/releases/tag/v0.3.0) · [逐人下载](docs/格林杯增量.md) · [对应视频](https://www.bilibili.com/video/BV1Nssv6gEHD/)
+
+![类魂格林杯立绘与差分总览](previews/bs2-v3-grimm-overview.jpg)
+
+八位选手各有一张基础立绘，另有 17 张表情与动作差分，包括 Gemini 的苍蓝巨矢、DeepSeek 的深海锚、千问的一血跪地和豆包的赛后复盘。
 
 ## 古兰篇增量 · v0.2.0
 
